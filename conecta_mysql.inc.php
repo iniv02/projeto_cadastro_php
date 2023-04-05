@@ -14,3 +14,4 @@ if ($conexao->connect_error){
 } else {
     echo "conectado";
 }
+?>
